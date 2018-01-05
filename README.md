@@ -1,6 +1,10 @@
-Name: Tristan Philippe
+#Name
 
-Program: Neuroscience
+######Tristan Philippe
+
+#Program
+
+######Neuroscience 
 
 Research project: Involves looking at sex differences in stress habituation and the role of the 5-HT1A receptor.
 
