@@ -3,7 +3,7 @@ Tristan Philippe
 
 **Email**: Tristan.J.Philippe@ubc.ca
 
-**[ResearchGate]**(https://www.researchgate.net/profile/Tristan_Philippe)
+Find me on **[ResearchGate](https://www.researchgate.net/profile/Tristan_Philippe)**
 
 # Program and level
 I am a doctral student in Neuroscience 
